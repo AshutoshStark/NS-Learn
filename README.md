@@ -7,7 +7,7 @@ Drive Link for the game:-
    [Click to download the Game](https://drive.google.com/file/d/1I7aSfJbVQXrca-wd0odhDDZoX_obiJ4K/view?usp=sharing)
 ## Video Link
 
-- [Click to watch Video](https://drive.google.com/file/d/1JKM0jLnxp0VbGSnfeesOShVy3Ju45PCt/view?usp=sharing)
+- [Click to watch Video](https://drive.google.com/file/d/1ruLN8Wx5Ria1suAPMXCjERQ-dagzAU8N/view?usp=sharing)
 
 HOW TO START:-
 
@@ -25,8 +25,8 @@ HOW TO START:-
 - [Web3 Room](https://github.com/AshutoshStark/hack-web.git)
 
 ## Project Report / Synopsis and PPT
-- [Project Synopsis Link](https://drive.google.com/file/d/1VofO2A9cCtImbhJoJaz0usUISxHgPnH6/view?usp=sharing)
-- [PowerPoint Presentation](https://www.canva.com/design/DAGOw2nHEdw/vUMzV2uVhQuu5otgpSXxYg/edit?utm_content=DAGOw2nHEdw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Project Synopsis Link](https://docs.google.com/document/d/1kYz3u1E2qJLV6CrWNKpL-q1StvUEl8wqXqc5Ce6cAAI/edit?usp=sharing)
+- [PowerPoint Presentation](https://www.canva.com/design/DAGRWY7P1pI/wsnN-W6nFq54zwrz60dEZA/edit?utm_content=DAGRWY7P1pI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Game Overview
 
@@ -49,6 +49,7 @@ HOW TO START:-
 
 - Virtual World and Gameplay
 - Chat and Chatbot Features
+- Smart Lens Features
 - Digital library  
 
 
@@ -66,12 +67,21 @@ HOW TO START:-
 - Creating a Virtual World
 
 ## Screenshots
-  ![ns9](https://github.com/user-attachments/assets/9c478c53-4be2-43bf-9130-a282768e80df)
-![ns8](https://github.com/user-attachments/assets/f657f832-a458-44ee-bc38-702f6a3d886e)
-![ns4](https://github.com/user-attachments/assets/d6403e2b-6686-4636-9994-e0e0282698d5)
-![ns10](https://github.com/user-attachments/assets/558e5b40-a443-40ef-b9b8-df5ecf2edb44)
-![ns2](https://github.com/user-attachments/assets/6bbd66ec-5cd3-4211-a312-d6fefa05f959)
-![ns png](https://github.com/user-attachments/assets/ff1f46bb-d71b-4a83-bc35-9e84b7743ad7)
+![WhatsApp Image 2024-09-21 at 10 32 27_4528a0f6](https://github.com/user-attachments/assets/3afac051-fb8d-4d31-bf5e-cc1a24ea617f)
+![WhatsApp Image 2024-09-21 at 10 32 27_4120dabf](https://github.com/user-attachments/assets/fb3b7c01-13b4-4539-8dfe-b5c0def03dc6)
+![WhatsApp Image 2024-09-21 at 10 32 27_08eb589a](https://github.com/user-attachments/assets/330f038a-2665-4908-9c77-5cfbedf0903f)
+![WhatsApp Image 2024-09-21 at 10 32 26_b01a55bc](https://github.com/user-attachments/assets/f096354b-4e33-4c51-992b-6195b1c2fb67)
+![WhatsApp Image 2024-09-21 at 10 32 26_126f07a7](https://github.com/user-attachments/assets/53ad943d-79f9-4432-b42d-af357545e4a3)
+![WhatsApp Image 2024-09-21 at 10 32 24_5b4bb1b4](https://github.com/user-attachments/assets/5d8bf0dc-17dc-419e-9d17-af056a208c1a)
+![WhatsApp Image 2024-09-21 at 10 32 23_80681622](https://github.com/user-attachments/assets/752d1805-cdca-4cfa-a63a-833c0d597742)
+![WhatsApp Image 2024-09-21 at 10 32 21_91ea8ad1](https://github.com/user-attachments/assets/cfdbb517-5f76-4832-93ae-26de201422d9)
+![WhatsApp Image 2024-09-21 at 10 32 28_1e4011b6](https://github.com/user-attachments/assets/d637b51f-dedf-446d-9d9d-939b62c7a028)
+![WhatsApp Image 2024-09-21 at 10 32 30_396c8484](https://github.com/user-attachments/assets/5a9a9969-3c5a-480a-8bab-b20700ce4cb5)
+![WhatsApp Image 2024-09-21 at 10 32 30_9dba2308](https://github.com/user-attachments/assets/353acfdd-6218-44d7-a046-8587ae8f6d23)
+![WhatsApp Image 2024-09-21 at 10 32 30_3dc0f62d](https://github.com/user-attachments/assets/6fc72d12-2742-49f6-a72d-f860b98a56aa)
+![WhatsApp Image 2024-09-21 at 10 32 29_d071c0e6](https://github.com/user-attachments/assets/9309b42e-fd54-4515-a94d-31a6a7c30a06)
+![WhatsApp Image 2024-09-21 at 10 32 29_7e1492aa](https://github.com/user-attachments/assets/b5ccde4d-4532-4938-9a2f-675bff1b3503)
+
 
 
 
